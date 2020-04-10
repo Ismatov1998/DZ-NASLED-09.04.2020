@@ -9,7 +9,26 @@ namespace oy
         static void Main(string[] args)
         {
           
-        
+        string klyuchpro,klyuchexp,pro="1234",exp="4321";
+          Console.WriteLine("Введите ключ Pro: ");
+          klyuchpro= Console.ReadLine();
+          Console.WriteLine("Введите ключ exp: ");
+          klyuchexp= Console.ReadLine();
+          if(klyuchpro==pro && klyuchexp==exp)
+          {
+            DocumentorWorker z=new ProDocumentWorker();
+            z.EditDocument();
+            z.saveDocument();
+            ProDocumentWorker j=new ExpertDocumentWorker();
+            j.saveDocument(); 
+          }
+          else 
+          {
+           DocumentorWorker p=new DocumentorWorker();
+            p.openDocument();
+            p.EditDocument();
+            p.saveDocument();
+          }
          
         
            
