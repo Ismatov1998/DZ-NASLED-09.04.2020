@@ -1,0 +1,11 @@
+C:\oy\PI\bin\Debug\netcoreapp3.1\oy.exe
+C:\oy\PI\bin\Debug\netcoreapp3.1\oy.deps.json
+C:\oy\PI\bin\Debug\netcoreapp3.1\oy.runtimeconfig.json
+C:\oy\PI\bin\Debug\netcoreapp3.1\oy.runtimeconfig.dev.json
+C:\oy\PI\bin\Debug\netcoreapp3.1\oy.dll
+C:\oy\PI\bin\Debug\netcoreapp3.1\oy.pdb
+C:\oy\PI\obj\Debug\netcoreapp3.1\oy.csprojAssemblyReference.cache
+C:\oy\PI\obj\Debug\netcoreapp3.1\oy.AssemblyInfoInputs.cache
+C:\oy\PI\obj\Debug\netcoreapp3.1\oy.AssemblyInfo.cs
+C:\oy\PI\obj\Debug\netcoreapp3.1\oy.dll
+C:\oy\PI\obj\Debug\netcoreapp3.1\oy.pdb
